@@ -55,4 +55,4 @@ Delow is a Python script for analyzing historical stock price data and implement
 Here's an example of how to use Delow:
 
 ```bash
-python delow.py
+python main.py
