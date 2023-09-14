@@ -44,7 +44,7 @@ Delow is a Python script for analyzing historical stock price data and implement
 
 2. Ensure you have the necessary Python libraries installed (Pandas, Matplotlib, NumPy, and Scikit-Learn).
 
-3. Place your historical stock data CSV file in the same directory as `delow.py`. Make sure your CSV file has columns named 'Date', 'Open', 'High', 'Low', and 'Close*'.
+3. Place your historical stock data CSV file in the same directory as `main.py`. Make sure your CSV file has columns named 'Date', 'Open', 'High', 'Low', and 'Close*'.
 
 4. Run the script using Python. It will guide you through the analysis and display the results.
 
